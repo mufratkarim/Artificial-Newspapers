@@ -1,5 +1,5 @@
 ## Artificial-Newspapers
-An iOS app that seamlessly blends traditional New York Times newspaper reading with interactive AR video experiences, leveraging Apple's state-of-the-art ARKit and AI frameworks.</p>
+An iOS app that seamlessly blends traditional newspaper reading with interactive AR video experiences, leveraging Apple's state-of-the-art ARKit and AI frameworks.</p>
 
 ---
 
