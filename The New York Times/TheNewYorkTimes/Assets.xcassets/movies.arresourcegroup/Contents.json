@@ -1,0 +1,26 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "belle.arreferenceimage"
+    },
+    {
+      "filename" : "elemental.arreferenceimage"
+    },
+    {
+      "filename" : "mov1.arreferenceimage"
+    },
+    {
+      "filename" : "shazam.arreferenceimage"
+    },
+    {
+      "filename" : "spykids.arreferenceimage"
+    },
+    {
+      "filename" : "upcoming.arreferenceimage"
+    }
+  ]
+}

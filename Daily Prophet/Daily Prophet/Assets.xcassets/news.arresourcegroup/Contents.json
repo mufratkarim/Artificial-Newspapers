@@ -1,0 +1,20 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "dragon.arreferenceimage"
+    },
+    {
+      "filename" : "sebastian.arreferenceimage"
+    },
+    {
+      "filename" : "trailer.arreferenceimage"
+    },
+    {
+      "filename" : "troll.arreferenceimage"
+    }
+  ]
+}

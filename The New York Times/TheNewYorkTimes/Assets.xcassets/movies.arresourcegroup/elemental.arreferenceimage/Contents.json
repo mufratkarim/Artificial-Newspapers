@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "elemental.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 0.67000000000000004
+  }
+}

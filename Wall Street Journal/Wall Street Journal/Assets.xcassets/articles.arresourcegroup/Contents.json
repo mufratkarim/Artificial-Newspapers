@@ -1,0 +1,29 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "wsj-page1.arreferenceimage"
+    },
+    {
+      "filename" : "wsj-page2-1.arreferenceimage"
+    },
+    {
+      "filename" : "wsj-page2-2.arreferenceimage"
+    },
+    {
+      "filename" : "wsj-page3-1.arreferenceimage"
+    },
+    {
+      "filename" : "wsj-page3-2.arreferenceimage"
+    },
+    {
+      "filename" : "wsj-page4.arreferenceimage"
+    },
+    {
+      "filename" : "wsj-page5.arreferenceimage"
+    }
+  ]
+}
