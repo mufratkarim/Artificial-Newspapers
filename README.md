@@ -17,17 +17,20 @@ Apple's ARKit, Core ML, Vision Framework, Swift, SwiftUI for intuitive UI design
 
 ## Videos
 
-- **Daily Prophet**
+- **The Wall Street Journal**
 
-https://github.com/mufratkarim/Artificial-Newspapers/assets/37815709/68940cab-8f82-4c3e-b734-f4f3a92dc679
+https://github.com/mufratkarim/Artificial-Newspapers/assets/37815709/371dbdb4-ef44-4a08-9679-0c9d69d39bc0
 
 - **The New York Times**
 
 https://github.com/mufratkarim/Artificial-Newspapers/assets/37815709/bb756643-5134-4afc-aa3b-f281baababa7
 
-- **The Wall Street Journal**
+- **Daily Prophet**
 
-https://github.com/mufratkarim/Artificial-Newspapers/assets/37815709/371dbdb4-ef44-4a08-9679-0c9d69d39bc0
+https://github.com/mufratkarim/Artificial-Newspapers/assets/37815709/68940cab-8f82-4c3e-b734-f4f3a92dc679
+
+
+
 
 
 
